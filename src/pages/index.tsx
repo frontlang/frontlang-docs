@@ -49,7 +49,7 @@ function HomepageHeader() {
             </Link>
             <Link
               className={clsx('button button--lg', styles.buttonOutline)}
-              to="/download">
+              to="/#">
               Download
             </Link>
           </div>
