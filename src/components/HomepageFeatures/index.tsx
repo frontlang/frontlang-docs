@@ -26,7 +26,7 @@ const FeatureList: FeatureItem[] = [
         Define clear interfaces for your components and data structures.
       </>
     ),
-    docsLink: '/docs/types/overview',
+    docsLink: '/docs/category/specification',
   },
   {
     title: 'High-Performance Core',
@@ -37,7 +37,7 @@ const FeatureList: FeatureItem[] = [
         lightning-fast parsing and minimal memory overhead for any scale.
       </>
     ),
-    docsLink: '/docs/architecture',
+    docsLink: '/docs/category/specification',
   },
   {
     title: 'Modern Developer Experience',
@@ -48,7 +48,7 @@ const FeatureList: FeatureItem[] = [
         including LSP support, auto-formatting, and modular imports.
       </>
     ),
-    docsLink: '/docs/ecosystem/overview',
+    docsLink: '/docs/category/specification',
   },
 ];
 
