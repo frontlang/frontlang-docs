@@ -1,41 +1,23 @@
-# Website
+# Front Language Docs
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Welcome to the official documentation repository for **Front**!
 
-## Installation
+## 📚 About
 
-```bash
-yarn
-```
+This repo contains guides, references, and examples to help you master FrontLang, a modern language for frontend development.
 
-## Local Development
+## 🚀 Getting Started
 
-```bash
-yarn start
-```
+1. Clone this repo:
+    ```bash
+    git clone https://github.com/front-language/frontlang-docs.git
+    ```
+2. Browse the docs and start learning!
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## 📝 Contributing
 
-## Build
+Contributions are welcome! Please open issues or pull requests to help improve the documentation.
 
-```bash
-yarn build
-```
+---
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-Using SSH:
-
-```bash
-USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Happy coding! 🚀
